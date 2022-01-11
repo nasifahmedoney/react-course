@@ -1,5 +1,6 @@
 import Todo from './components/Todo';
 
+
 function App() {
   return (
     <div>
@@ -7,6 +8,7 @@ function App() {
       <Todo text="title1" />
       <Todo text="title2" />
       <Todo text="title3" />
+      
     </div>
   );
 }
